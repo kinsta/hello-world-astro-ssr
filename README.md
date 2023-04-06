@@ -1,7 +1,7 @@
 ![Photo by Jr Korpa on Unsplash](https://user-images.githubusercontent.com/2342458/194169079-aa12e92d-87fd-4da4-9afd-93de44874dae.png)
-# Kinsta - Hello World - Static Site With Astro 🚀
+# Kinsta - Hello World - SSR Site With Astro 🚀
 
-An example of how to deploy a static site built with Astro on Kinsta App Hosting services.
+An example of how to deploy an SSR site built with Astro on Kinsta App Hosting services.
 
 ---
 Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
@@ -18,7 +18,7 @@ Kinsta automatically installs dependencies defined in your `package.json` file, 
 
 ### Port
 
-Kinsta automatically sets the `PORT` environment variable. You should **not** define it yourself and you should **not** hard-code it into the application. The `serve` package utilizes the port set by Kinsta automatically.
+Kinsta automatically sets the `PORT` environment variable. You should **not** define it yourself and you should **not** hard-code it into the application.
 
 ### Start Command
 
