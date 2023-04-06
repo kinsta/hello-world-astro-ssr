@@ -1,0 +1,23 @@
+{
+  "name": "@example/blog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "serve dist/",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.0.0",
+    "@astrojs/mdx": "^0.11.1",
+    "@astrojs/rss": "^2.0.0",
+    "@astrojs/sitemap": "^1.0.0",
+    "serve": "^14.0.1"
+  },
+  "devDependencies": {
+    "astro": "^2.0.0",
+    "@astrojs/renderer-preact": "^0.5.0"
+  }
+}
