@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "type": "module",
   "private": true,
-  "engines": {
-    "node": "16.x.x"
-  },
   "scripts": {
     "dev": "astro dev",
     "start": "node ./dist/server/entry.mjs",
