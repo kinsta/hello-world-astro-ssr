@@ -1,4 +1,4 @@
-![Photo by Jr Korpa on Unsplash](https://user-images.githubusercontent.com/2342458/194169079-aa12e92d-87fd-4da4-9afd-93de44874dae.png)
+![Astro](https://user-images.githubusercontent.com/2342458/230581995-206679d5-c153-4f1f-abb4-fd74df9dbbf0.png)
 # Kinsta - Hello World - SSR Site With Astro 🚀
 
 An example of how to deploy an SSR site built with Astro on Kinsta App Hosting services.
