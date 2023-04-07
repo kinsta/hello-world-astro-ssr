@@ -4,9 +4,12 @@ import node from "@astrojs/node";
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://hello-world-astro-ssr-oypwt.kinsta.app',
+	site: 'https://example.com',
 	output: 'server',
 	adapter: node({
 		mode: "standalone"
-	})
+	}),
+	server: {
+		host: true
+	}
 });
